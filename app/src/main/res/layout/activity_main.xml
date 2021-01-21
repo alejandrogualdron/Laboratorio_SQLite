@@ -133,6 +133,7 @@
             android:layout_marginLeft="10dp"
             android:text="Female"
             android:textSize="20sp"
+
             android:onClick="onRadioButtonClicked"
             />
     </RadioGroup>
